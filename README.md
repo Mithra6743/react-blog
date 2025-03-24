@@ -7,9 +7,5 @@ This is a blog application made with react and mongodb.Anyone can login or signu
 ,blog
 ,user page
 ,comments
-# Technologies used:
-- _Frontend:_ Html,Css,Bootstrap,React.js,javascript
-- _Login/Sign up:_ Clerk
-- _Backend:_ Node.js,express.js
-- _Database:_ MongoDb
+
 
